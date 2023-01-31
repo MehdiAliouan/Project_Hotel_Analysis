@@ -23,4 +23,5 @@ The most bookings were made from July to August. And the least bookings were mad
 6- How Long People Stay in the hotel?
 Most people stay for one to 4 nights in city hotel and stay more in resort hotel from 5 nights and more in the resort hotel. 
 
-[Project_Hotel.pdf](https://github.com/MehdiAliouan/Project_Hotel_Analysis/files/10550368/Project_Hotel.pdf)
+![Hotel](https://user-images.githubusercontent.com/91919362/215869952-79846144-c065-479c-82f1-0d7afa636372.jpg)
+![Screenshot 2023-01-31 210151](https://user-images.githubusercontent.com/91919362/215869983-0f0398fc-d411-4391-b5e5-2a01fc8da549.jpg)
