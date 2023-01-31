@@ -1,5 +1,6 @@
 # Project_Hotel_Analysis
-- Dataset From Kaggle
+- Dataset From [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
 - This data set contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 - I've Built a database; Develop the SQL Query; Connecting Power BI to the databse and Build a visual data story using Power BI By answering the folowing question :
@@ -21,3 +22,5 @@ The most bookings were made from July to August. And the least bookings were mad
 
 6- How Long People Stay in the hotel?
 Most people stay for one to 4 nights in city hotel and stay more in resort hotel from 5 nights and more in the resort hotel. 
+
+[Project_Hotel.pdf](https://github.com/MehdiAliouan/Project_Hotel_Analysis/files/10550368/Project_Hotel.pdf)
