@@ -1,27 +1,36 @@
 # Project_Hotel_Analysis
-- Dataset From [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
-- This data set contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
+Situation:
 
-- I've Built a database; Develop the SQL Query; Connecting Power BI to the databse and Build a visual data story using Power BI By answering the folowing question :
+The project involves analyzing a dataset From [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+containing booking information for a city hotel and a resort hotel.
+The dataset includes details such as booking dates, length of stay, and the number of guests.
 
-1- Is our hotel revenue growing by year?
-We have significant revenue increase from 2018 to 2019 and have little drop down in Ressort hotel revenue  in 2020 in contrary City hotel was stable. 
+Task:
 
-2- How many booking were cancelled?
-Bookings got canceled 29.98% of the time. While booking guest did checkd-in (did not cancel the booking ) almost 70.02% of the time.
+The tasks include building a database, developing SQL queries, connecting Power BI to the database, and creating a visual data story using Power BI.
 
-3- What is the booking ratio between Resort hotel and City hotel?
-More than 60% of the population booked the City hotel
+Action:
 
-4- What is the percentage of booking for each year by hotel type?
-More than double bookings were made in 2019, compared to the previous year. But the bookings decreased by almost 15% the next year.
+The analysis involves answering key questions such as:
+Is hotel revenue growing by year?
+How many bookings were canceled?
+What is the booking ratio between resort and city hotels?
+What is the percentage of bookings for each year by hotel type?
+Which is the busiest month for hotels?
+How long do people stay in the hotels?
+The project uses SQL for data querying and Power BI for data visualization.
 
-5- Which is the busiest month for hotels?
-The most bookings were made from July to August. And the least bookings were made at the start and end of the year, with small difference betwwen City and Resort hotel.
+Result:
 
-6- How Long People Stay in the hotel?
-Most people stay for one to 4 nights in city hotel and stay more in resort hotel from 5 nights and more in the resort hotel. 
+Key insights include:
+Significant revenue increase from 2018 to 2019, with a slight drop in resort hotel revenue in 2020.
+29.98% of bookings were canceled.
+More than 60% of bookings were for the city hotel.
+Double the bookings in 2019 compared to the previous year, but a 15% decrease the next year.
+The busiest months are July and August.
+Most people stay 1-4 nights in city hotels and more than 5 nights in resort hotels.
+A Power BI dashboard was created to visualize these insights.
 
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUyZjZiZDYtNDMzMi00OWRkLWI2ODMtZDEyMTUxODU3NWMwIiwidCI6IjNhYjAwNGM4LTE0ZWMtNDdkOS05MTk5LTM5ZWU4ODVhOGE5ZiJ9)
 
